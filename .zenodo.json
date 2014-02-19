@@ -1,0 +1,20 @@
+{
+  "upload_type": "software",
+  "publication_date": "2014-02-14",
+  "title": "fitsjs",
+  "creators": [{
+      "name": "Amit Kapadia",
+      "affiliation": "ZENODO"
+  }],
+  "description": "JavaScript library for reading the FITS astronomical format. Functionality includes reading of images, data cubes, compressed images, binary and ascii tables.",
+  "access_right": "open",
+  "license": "mit-license",
+  "prereserve_doi": "true",
+  "keywords": [
+    "astronomy",
+    "astrophysics",
+    "fits",
+    "data"
+  ],
+  "notes": "Zenodo helps preserve and attribute software!"
+}
