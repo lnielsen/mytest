@@ -17,8 +17,6 @@
 .. image:: https://img.shields.io/github/license/my-site/my-site.svg
         :target: https://github.com/my-site/my-site/blob/master/LICENSE
 
-Invenio digital library framework.
-
 Further documentation is available on
 https://my-site.readthedocs.io/
 
